@@ -1373,9 +1373,9 @@
 /fr/docs/Glossaire/Element_vide	/fr/docs/Glossary/Void_element
 /fr/docs/Glossaire/En-tête	/fr/docs/Glossary/Head
 /fr/docs/Glossaire/En-tête_de_requête	/fr/docs/Glossary/Request_header
-/fr/docs/Glossaire/En-tête_de_réponse_simple	/fr/docs/Glossary/Simple_response_header
+/fr/docs/Glossaire/En-tête_de_réponse_simple	/fr/docs/conflicting/Glossary/CORS-safelisted_response_header
 /fr/docs/Glossaire/En-tête_entité	/fr/docs/Glossary/Entity_header
-/fr/docs/Glossaire/En-tête_simple	/fr/docs/Glossary/Simple_header
+/fr/docs/Glossaire/En-tête_simple	/fr/docs/conflicting/Glossary/CORS-safelisted_request_header
 /fr/docs/Glossaire/En-têtes_de_réponse	/fr/docs/Glossary/Response_header
 /fr/docs/Glossaire/Encapsulation	/fr/docs/Glossary/Encapsulation
 /fr/docs/Glossaire/Encryption	/fr/docs/Glossary/Encryption
@@ -1737,6 +1737,8 @@
 /fr/docs/Glossary/Node/réseau	/fr/docs/Glossary/Node/networking
 /fr/docs/Glossary/Origine	/fr/docs/Glossary/Origin
 /fr/docs/Glossary/Reference	/fr/docs/Glossary/Object_reference
+/fr/docs/Glossary/Simple_header	/fr/docs/conflicting/Glossary/CORS-safelisted_request_header
+/fr/docs/Glossary/Simple_response_header	/fr/docs/conflicting/Glossary/CORS-safelisted_response_header
 /fr/docs/Glossary/Symbol	/fr/docs/Web/JavaScript/Reference/Global_Objects/Symbol
 /fr/docs/Glossary/Transmission_Control_Protocol_(TCP)	/fr/docs/Glossary/TCP
 /fr/docs/Glossary/XHR_(XMLHttpRequest)	/fr/docs/Glossary/XMLHttpRequest

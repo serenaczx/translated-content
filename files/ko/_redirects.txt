@@ -188,6 +188,8 @@
 /ko/docs/Glossary/I18N	/ko/docs/Glossary/Internationalization
 /ko/docs/Glossary/Index	/ko/docs/Glossary
 /ko/docs/Glossary/Internationalization_and_localization	/ko/docs/conflicting/Glossary/Internationalization
+/ko/docs/Glossary/Simple_header	/ko/docs/conflicting/Glossary/CORS-safelisted_request_header
+/ko/docs/Glossary/Simple_response_header	/ko/docs/conflicting/Glossary/CORS-safelisted_response_header
 /ko/docs/Glossary/Symbol	/ko/docs/Web/JavaScript/Reference/Global_Objects/Symbol
 /ko/docs/Glossary/Transmission_Control_Protocol_(TCP)	/ko/docs/Glossary/TCP
 /ko/docs/Glossary/XHR_(XMLHttpRequest)	/ko/docs/Glossary/XMLHttpRequest
